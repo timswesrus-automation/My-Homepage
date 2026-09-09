@@ -7,6 +7,8 @@ excerpt: 'This paper proposes optimization strategies for LLMs to enhance contex
 date: 2025-07-01
 venue: 'Accepted at COAI 2025'
 paperurl: 'https://example.com/paper.pdf'
+codeurl: 'https://github.com/timswesrus-automation/optimizing-llms-contextual-reasoning'
+codestatus: '🚧 To be released'
 ---
 
 This paper proposes optimization strategies for LLMs to enhance contextual reasoning across multiple tasks, with empirical results showing superior adaptability in dynamic environments. The paper has been accepted for publication at COAI 2025.
